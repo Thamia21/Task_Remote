@@ -2,9 +2,14 @@
 
 This repository is created for practicing Git workflows and collaboration.
 
-## Tasks to Complete:
-1. Create repository on GitHub ✅
-2. Set up local repository and push to remote
-3. Add collaborators
-4. Practice branching and merging
-5. Resolve merge conflicts
+## Project Guidelines
+1. Always create a branch for new features
+2. Use meaningful commit messages
+3. Review code before merging
+4. Keep commits small and focused
+
+## Completed Tasks:
+1. Repository creation ✅
+2. Local setup and remote push ✅
+3. Collaborator addition ✅
+4. Branch creation and PR ✅
